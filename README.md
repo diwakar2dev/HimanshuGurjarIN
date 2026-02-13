@@ -61,7 +61,10 @@
 <!-- Contact Section -->
 ## 🌌 **CONNECT WITH ME**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://flaxynodes.fun/himanshu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](Full-stack developer building with React, Node.js, and Python.
+Exploring the power of Rust for systems programming.
+Passionate about creating efficient and - HimanshuGurjarIN
+)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshugurjar@zohomail.in)
 
 <br>
